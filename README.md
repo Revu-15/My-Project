@@ -1,11 +1,6 @@
-Amazon Clone
+Projects
 
 Content 
-• Problem Statement
- • Literature Survey
- • Research Methodology
- • Expected Outcome
- • Discussions
- • Scope of Project
- • Progress So far
- • References
+• Build an Online Portfolio Website
+ • ChatBot
+ 
